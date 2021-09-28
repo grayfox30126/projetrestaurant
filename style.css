@@ -1,0 +1,27 @@
+body {
+    border: solid 4px black;
+    margin: 0;
+}
+
+* {
+    border: solid 1px black;
+}
+.image {
+    background: url(./assets/burger.png) left/cover ;
+    height: 10vh;
+    width: 5%;
+}
+
+h1 {
+    margin: 0%;
+   
+
+}
+ #absolut {
+     position: absolute;
+ }
+
+
+ span {
+     padding: 200px;
+ }
